@@ -1,7 +1,22 @@
-# CMDMailer
-## A CMD app that sends email using gmail from the command line
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
-# Usage
-### 1 - clone or download the repository 
-### 2 - Node start
-### 3 - Start using the app!!!
+## General info
+A simple & quick mailer using gmail as a host
+	
+## Technologies
+Project is created with:
+* Express
+* Nodemailer
+* cli-color
+* prompt
+	
+## Setup
+To run this project, install it locally using npm:
+```
+$ npm install
+$ node app.js
+```
+Have fun using.
